@@ -1,1 +1,2 @@
-# Stock Daashboard
+# Stock Dashboard
+
